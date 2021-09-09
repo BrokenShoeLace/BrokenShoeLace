@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrokenShoeLace
 - 👀 I’m interested in web design, programming with Visual Studo and tools like Powershell etc.
-- 🌱 I’m currently learning cyber security, Android apps
-- 💞️ I’m looking to collaborate on dotnet, web, desktop or networking apps and documntation
+- 🌱 I’m currently learning cyber security and Android apps
+- 💞️ I’m looking to collaborate on dotnet, web, desktop or networking apps and documentation
 - 📫 How to reach me ...
 
 <!---
